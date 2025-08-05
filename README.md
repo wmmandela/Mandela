@@ -1,2 +1,2 @@
-# Mandela
+# Colab Projects
 Python
